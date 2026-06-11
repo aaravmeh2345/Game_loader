@@ -1,0 +1,9 @@
+{
+  "status": true,
+  "data": {
+    "token": "1234567890",
+    "rng": 1970630400,
+    "EXP": "2027-12-31"
+  },
+  "message": "Login Successful"
+ }
